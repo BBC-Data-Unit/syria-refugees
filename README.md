@@ -2,7 +2,13 @@
 
 ![](https://ichef.bbci.co.uk/news/624/cpsprodpb/12D14/production/_108667077_refugees-nc.png)
 
-In September 2019 **Dan Wainwright** provided context to a story about the 17,000 refugees who fled the Syrian war and have settled in Britain over the past five years.
+More than 17,000 refugees fleeing the conflict in Syria have come to the UK under the Vulnerable Persons Resettlement Scheme.
+
+BBC News caught up with some of them to share their stories about life in the UK.
+
+The England data unit also analysed the latest figures to show how many people have gone to each region and local authority area.
+
+This repo includes some charts that were not used in the story.
 
 ## Get the data
 
@@ -19,4 +25,13 @@ In September 2019 **Dan Wainwright** provided context to a story about the 17,00
 
 ## Visualisation
 
-* Bar chart: Arrivals under the Vulnerable Persons Resettlement Scheme 2014-2019
+* Bar chart: Arrivals under the Vulnerable Persons Resettlement Scheme 2014-2019, by region
+
+## Unused
+
+![](https://raw.githubusercontent.com/BBC-Data-Unit/syria-refugees/master/refugeeslocal-nc.png)
+
+* [Bar chart: Arrivals under the Vulnerable Persons Resettlement Scheme 2014-2019, by local authority](https://raw.githubusercontent.com/BBC-Data-Unit/syria-refugees/master/refugeeslocal-nc.png)
+* [Column chart: Refugees in the UK fleeing Syria, by year](https://raw.githubusercontent.com/BBC-Data-Unit/syria-refugees/master/refugeestime-nc.png)
+
+![](https://raw.githubusercontent.com/BBC-Data-Unit/syria-refugees/master/refugeestime-nc.png)
